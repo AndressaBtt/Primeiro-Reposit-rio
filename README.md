@@ -5,4 +5,6 @@ foi desenvolvido com o prof Massao o arquivo Pilhas, que resume as estruturas de
 
 ## Pré-requisitos
 
-- Primeiramente, precisará do "Portugol Studio" para executar esse programa. [Link para download](https://univali-lite.github.io/Portugol-Studio/)
+- Primeiramente, precisará do "Portugol Studio" para executar esse programa. ([Link para download](https://univali-lite.github.io/Portugol-Studio/))
+- Após entrar no site clique em "download", assim que terminar de baixar, execute o programa na pasta que você salvou!
+- Pronto! 🤩 Agora você poderá usar o meu arquivo e testar!!
