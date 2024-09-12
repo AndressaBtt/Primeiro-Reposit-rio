@@ -1,9 +1,9 @@
-# LÓGICA DE PROGRAMAÇÃO
+# 👩‍💻 LÓGICA DE PROGRAMAÇÃO
 
-Este é um arquivo readme onde a lógica de programação está envolvente, por tanto
+Este é um arquivo readme onde a lógica de programação está envolvida, portanto
 foi desenvolvido com o prof Massao o arquivo Pilhas, que resume as estruturas de dados que armazenam os elementos em um formato sequencial, empilhando um item acima do outro!
 
-## Estrutura do Programa
+## 💬 Estrutura do Programa
 
 O programa é estruturado da seguinte forma:
 
@@ -16,7 +16,7 @@ O programa é estruturado da seguinte forma:
   - `imprimir()`: Exibe o conteúdo atual da pilha.
   - `inicio()`: Função principal que executa operações de teste na pilha.
 
-## Tabela de Funcionalidades
+## 📌 Tabela de Funcionalidades
 
 | Função        | Descrição                                           |
 |---------------|-----------------------------------------------------|
@@ -28,12 +28,12 @@ O programa é estruturado da seguinte forma:
 | `imprimir()`  | Exibe os valores presentes na pilha do topo até a base. |
 | `inicio()`    | Executa uma série de operações de teste, incluindo empilhar e desempilhar. |
 
-## Como Executar
+## 🔄 Como Executar
 
 1. **Compilar**: Compile o código conforme o ambiente de desenvolvimento utilizado.
 2. **Executar**: Execute o programa para testar as funcionalidades de empilhar, desempilhar e imprimir a pilha.
 
-## Observações
+## 👀 Observações
 
 - A pilha tem um tamanho fixo definido por `TAM` (10 elementos).
 - O código inclui testes que tentam empilhar mais elementos do que o tamanho máximo para demonstrar o tratamento de pilha cheia.
